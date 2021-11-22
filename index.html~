@@ -154,8 +154,7 @@
 		    <div class="item">
                     <div class="details">
                         <p>&ensp; I am currently trying to extend the results of physics-based ground motion simulations to probabilistic estimation of potential structural damage. This attempt is to transform a range in the observable space to . Applications involving the fragility curve in earthquake engineering may provide probabilistic predictions on slight, moderate, or extensive structural damage.</p> 
-			<a href="assets/data/FaultFig.png" target="_blank"><img src="assets/data/FaultFig.png" alt="" width=45% class="hp"></a>
-			<a href="assets/data/Hist.png" target="_blank"><img src="assets/data/Hist.png" alt="" width=41% class="hp"></a>
+			<img src="assets/data/FaultFig.png" alt="" width=45% class="hp"><img src="assets/data/Hist.png" alt="" width=41% class="hp">
 
 			<div class="caption">
 				(Lee et al., <i>in preparation</i>)</div>
