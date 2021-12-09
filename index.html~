@@ -38,7 +38,7 @@
                 <img class="profile" src="assets/data/ProfileCircle.png" alt="" width="100%" >
                 <h1 class="name">Jaeseok Lee</h1>
                 <h2 class="tagline1">Research Assistant</h2>
-		<h3 class="tagline3">Seismology Lab,<br> Seoul National University</h3>
+		<h3 class="tagline2">Seismology Lab,<br> Seoul National University</h3>
             </div><!--//profile-container-->
             
             <div class="profile-container container-block">
@@ -178,7 +178,7 @@
 			    As a completion of my Master's thesis, I am aiming to extend the results of physics-based ground motion simulations to probabilistic seismic hazard analysis and provide estimates of possible structural damage.
 			I am targeting large potential earthquakes in Northern Kyushu, which are in proximity to the Korean Peninsula and have high probabilities of rupture.
 			Statistical estimations based on ground motion simulations of sampled pseudo-dynamic rupture models, may provide a rough probability distribution of possible peak ground motions at a site.
-			Applications involving fragility curves of earthquake engineering may provide probabilistic predictions on the degree of structural damage being slight, moderate, or extensive.</p> 
+			Applications involving fragility curves of earthquake engineering will give probabilistic predictions on the degree of structural damage being slight, moderate, or extensive.</p> 
 			</p>
 			<p>&ensp; I had been working on this research since my <a href="https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/514403" target="_blank">poster presentation</a> in AGU 2019.
 			My other research project on the 2016 Gyeongju earthquake, which began later in 2020, happened to be published in advance in the process of validating the simulation framework.
